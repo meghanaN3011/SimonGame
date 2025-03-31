@@ -8,11 +8,11 @@ A classic **Simon Game** built using **HTML, CSS, and JavaScript**. Test your me
  
 ## 🚀Technologies Used  
 - **HTML** – For structuring the game layout  
-- **CSS** – For styling and animations  
+- **CSS** – For styling and UI.  
 - **JavaScript** – For game logic and interactions  
 
 ## 🎯How to Play  
-1. Click **any key**on the keyboard to begin.  
+1. Click **any key** on the keyboard to begin.  
 2. Watch and **memorize** the color sequence.  
 3. Click the buttons in the correct order.  
 4. Each correct sequence **advances** you to the next level.  
